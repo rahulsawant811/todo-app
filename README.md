@@ -2,7 +2,7 @@
 
 Simple todo app using node.js and mongodb
 
-# MongoDB Installation
+# MongoDB
 
 - Create account on mLab then login and create db: my-todo-db
 
