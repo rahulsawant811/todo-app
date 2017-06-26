@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Practice Folder
+/Practice
+
 # dependencies
 /node_modules
 
