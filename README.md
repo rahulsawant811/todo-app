@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-playlist
 CSS and asset files for the Net Ninja YouTube nodejs playlist
 
@@ -7,3 +8,7 @@ If you have been following the tutorial, code for each and every lesson is added
 All files have been tested.
 
 If more files for  .\Practice\ should be added. They will be added very soon.
+=======
+# todo-app
+Simple todo app using node.js and mongodb
+>>>>>>> 559d4f54abeaa9ddc153d65744d84f1f5d8fbd57
